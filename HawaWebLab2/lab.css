@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: rgb(222, 242, 242);
+}
+ul{
+ 
+    background-color: darkslateblue;
+    min-height: 50px;
+    padding: 5px;
+   justify-content: space-around;
+   float: center;
+   display: flex;
+   
+ 
+   
+}
+ul li{
+   display: flex; 
+   justify-content: space-around;
+   width: 90px;
+  
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+nav{
+    width: 4px;
+    height: 12px;
+}
+.logo img{
+    width: 47px;
+    padding-left: 12px;
+   
+}
+h2{
+    float: center;
+    align-content: center;
+}
